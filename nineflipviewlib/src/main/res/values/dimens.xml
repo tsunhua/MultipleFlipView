@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="login_cell_height">205dip</dimen>
+    <dimen name="login_cell_negative_height">-150dip</dimen>
+    <dimen name="login_cell_negative_left_width">-54dip</dimen>
+    <dimen name="login_cell_negative_width">-50dip</dimen>
+    <dimen name="login_cell_width">154dip</dimen>
+
+    <dimen name="small_margin_size">10dip</dimen>
+</resources>

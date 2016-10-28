@@ -1,1 +1,1 @@
-include ':app', ':nineflipviewlib'
+include ':app', ':MultipleFlipViewLib'

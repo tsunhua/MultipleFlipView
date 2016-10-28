@@ -83,7 +83,7 @@ bintray {
     configurations = ['archives']
 
     pkg {
-        repo = "MultipleFlipView"
+        repo = "android"
         name = "MultipleFlipView"
         websiteUrl = siteUrl
         vcsUrl = gitUrl

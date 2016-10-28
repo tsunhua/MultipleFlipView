@@ -9,7 +9,8 @@
 --------
 
 ```
-//todo
+// not open yet
+compile 'io.github.linlsahre:MultipleFlipViewLib:0.1.1'
 ```
 
 使用
